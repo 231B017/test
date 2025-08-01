@@ -1,0 +1,8 @@
+// check the available branches
+git branch
+
+// create & checkout to new branch
+git checkout -b feature
+
+// checkout to different branch
+git checkout main
